@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webencrypt01", "webencrypt01\webencrypt01.csproj", "{E7FB5B1A-175F-4D9F-B322-49F7280BA986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FB5B1A-175F-4D9F-B322-49F7280BA986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FB5B1A-175F-4D9F-B322-49F7280BA986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FB5B1A-175F-4D9F-B322-49F7280BA986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FB5B1A-175F-4D9F-B322-49F7280BA986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A0FD1D8-BE78-4EE0-99B2-8953839EA5B5}
+	EndGlobalSection
+EndGlobal
