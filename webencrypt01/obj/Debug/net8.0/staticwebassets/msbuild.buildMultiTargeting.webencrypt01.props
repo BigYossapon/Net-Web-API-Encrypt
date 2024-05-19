@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\webencrypt01.props" />
-</Project>

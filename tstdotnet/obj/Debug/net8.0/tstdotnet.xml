@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>tstdotnet</name>
+    </assembly>
+    <members>
+        <member name="M:tstdotnet.Controllers.WeatherForecastController.Get">
+             <remarks>
+             Sample request
+              
+             Sample request:
+            
+                 POST /Account
+                 {
+                    "userId": null,
+                    "bankId": null,
+                    "dateCreated": null
+                 }
+                 OR
+                 
+                 POST /Account
+                 {
+                    "userId": null,
+                    "bankId": 000,
+                    "dateCreated": null
+                 } 
+             </remarks>
+             <param name=""></param>
+             <returns> This endpoint returns a list of Accounts.</returns>
+        </member>
+        <member name="M:tstdotnet.Controllers.WeatherForecastController.GetEncryptwithName">
+            <summary>
+            test
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:tstdotnet.Controllers.WeatherForecastController.GetEncryptwithNames">
+            <remark>
+            
+            </remark>
+            <returns></returns>
+        </member>
+        <member name="M:tstdotnet.Controllers.WeatherForecastController.GetEncryptwithNamesresponse">
+            <response code="201"  cref="M:tstdotnet.WeatherForecast.#ctor">
+            "WeatherForecast"
+            </response>
+            <response code="400" cref="T:tstdotnet.WeatherForecast">Bad Request</response>
+        </member>
+    </members>
+</doc>
